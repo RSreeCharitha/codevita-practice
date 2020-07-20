@@ -1,3 +1,10 @@
+##Decode the logic and print the pattern that corresponds to the given input
+#SI 1 - 3
+#SO 1 
+# 10203010011012
+# **4050809
+# ****607
+
 n = int(input())
 line = 0
 k=n
