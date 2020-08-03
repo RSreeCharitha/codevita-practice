@@ -21,6 +21,6 @@ for i in range(n):
     print(fin-j, end='')
     if j!=1:
       print(0,end='')
-  final-=k
+  fin-=k
   k-=1
   print()
